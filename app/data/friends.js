@@ -7,7 +7,7 @@
 var friends = [
     {
        "name":"Albert Flores",
-       "photo":"",
+       "photo":"https://s3-media4.fl.yelpcdn.com/bphoto/LAx7FBflNxEbtt1iFeM1iQ/ls.jpg",
        "scores":[
           "5",
           "1",
@@ -70,7 +70,7 @@ var friends = [
        ]
     },
      {
-        "name":"Weord Al",
+        "name":"Weird Al",
         "photo":"",
         "scores":[
            "4",
